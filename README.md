@@ -1,2 +1,2 @@
-# Data-Scientist-Machine-Learning
+# Data Scientist Machine Learning
 Codecademy | MACHINE LEARNING 
