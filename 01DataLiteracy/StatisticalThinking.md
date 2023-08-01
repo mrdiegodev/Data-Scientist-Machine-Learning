@@ -13,4 +13,5 @@
     STANDARD DEVIATION: Describes the spread of values in a numeric distribution relative to the mean.
     It is calculated by finding the average squared distance from each data point
     SKEWED DISTRIBUTION: Is asymmetrical with a steep change in frequency on one side.
+    VARIABLE RELATIONSHIP: Aggregatin data is a way of exploring variable relationships.
     
