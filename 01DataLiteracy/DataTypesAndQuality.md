@@ -31,3 +31,8 @@ Each invidivial pieace of data is called *entity*, *obserbation* or *instance*
 
     Finally, identifying ways that duplicate values could have been created goes a long way towards ensuring that reality is only represented once in your data. 
     A useful technique is to distinguish between what was human collected versus programmatically generated and using that distinction to segment the data.
+
+<h5 style="background-color:#BFFFA6; display: inline-block">Describing Categorical variables</h5>
+    - frequency: the count of musicians for each job title
+    - proportion: the frequency divided by the total number of musicians
+    - percentage: the proportion converted from a decimal to a percentage
